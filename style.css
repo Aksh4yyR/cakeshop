@@ -1,0 +1,345 @@
+
+
+
+#crow
+{
+    text-align: center;
+    
+  
+}
+.home
+{
+    text-decoration: none;
+}
+ 
+.nav-bar 
+{
+    text-align: center;
+  
+    
+}
+.list
+{
+    list-style: none;
+    
+    padding: 20px;
+    
+}
+ul 
+{
+    display: flex;
+    margin-left: 450px;
+ 
+}
+.home 
+{
+    color: black;
+   font-style: italic;
+   font-size: 20px;
+   font-weight: 500;
+   
+}
+.home:hover
+{
+   text-decoration: underline;
+}
+.buttons 
+{
+    text-align: right;
+    margin-top: -55px;
+    margin-right: 60px;
+    background-color: aqua;
+}
+.Heaven 
+{
+    font-family: "Playwrite CU", cursive;
+    text-align: center;
+    font-size:60px;
+    margin-top: 250px;  
+    color: white;
+    
+}
+.butt
+{
+    text-align: center;
+    margin-top: 250px;
+}
+.dis
+{
+    width: 150px;
+    height: 50px;
+    border-color: white;
+    background: none;
+    color: white;
+    border-radius: 30px;
+    font-family: "Playwrite CU", cursive;
+}
+.shop
+{
+    width: 150px;
+    height: 50px; 
+    border-color: white;
+    background: none; 
+    color: white;
+    border-radius: 30px;
+    font-family: "Playwrite CU", cursive;
+}
+.fbody1
+{
+    margin-top:-110px;
+    width:100%;
+    height: 70vh;
+  
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230413/pngtree-cake-strawberry-cake-shop-background-image_2376340.jpg");
+}
+.shop:hover 
+{
+    color: black;
+    background-color: white;
+}
+.dis:hover 
+{
+    color: black;
+    background-color: white;
+}
+ .parent
+{
+    display: grid;
+    grid-template-columns: repeat(3,10rem);
+    gap: 300px;
+    margin-left: 100px;
+    margin-top: 60px;
+} 
+
+.img4,.img2,.img3
+{
+   width:350px;
+   height:250px;
+  
+   border-radius: 30px;
+   border: 1px solid black;
+}
+.img4:hover{
+    transform: scale(1.2);
+
+}
+.img2:hover{
+    transform: scale(1.2);
+
+}
+.img3:hover{
+    transform: scale(1.2);
+
+}
+.cream
+{
+   margin-left: 90px;
+   white-space: nowrap;
+}
+.sugar
+{
+    margin-left: 90px;
+    white-space: nowrap;
+}
+.blue
+{
+    margin-left: 90px;
+    white-space: nowrap;
+}
+.p4,.p5,.p6
+{
+    text-align: center;
+    text-align: justify;
+    margin-left: 90px;
+    width: 120%;
+    
+}
+.nav-bar
+{
+    position: fixed;
+    margin-top: 50px;
+    
+    width: 100%;
+    
+    
+}
+.divbod 
+{
+    text-align: center;
+    width: 100%;
+    height: 60vh;  
+    margin-top: 120px;
+    padding-top: 60px;
+    color:white;
+    font-family: "Playwrite HR", cursive;
+    
+     
+}
+.bodh1{
+  font-size: 50px;
+
+}
+
+.img-do
+{
+    width: 100%;
+    height: 60vh;
+    margin-top: -30px;
+    background-image: url("https://media.istockphoto.com/id/1028078126/video/french-macaroon-dessert-in-the-box-row-fo-colorful-french-macarons.jpg?s=640x640&k=20&c=FAOO-nDN41Zkjy7QbGDwqWo9D2QKqs7uBGZePBzFZNk="); 
+   
+}
+.dailybutt
+{
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: bisque;
+}
+.pdaily 
+{
+    font-size: x-large;
+}
+.cups
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.best
+{
+    color:darkgoldenrod;
+    font-size: 60px;
+    font-family: "Playwrite HU", cursive;
+}
+.cuph1 
+{
+    font-size:30px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.cut
+{
+    margin: 0px 150px 0px 150px;
+    
+}
+
+.par 
+{
+    height: 300px;
+    width:350px;
+}
+.m1
+{
+    height: 250px;
+    width:300px;
+    border-radius: 20px;
+}
+#eight 
+{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.pp1
+{
+    text-align: center;
+    font-size: 15px;
+    font-family: "Playwrite HU", cursive;
+}
+.par 
+{
+    float: left;
+}
+.m1:hover
+{
+transform: scale(1.2);
+}
+#last-pic 
+{
+    width: 100%;
+    height: 680px;
+    background-image: url("https://cdn.wallpapersafari.com/84/21/nPBhZd.gif");
+    background-size: cover;
+}
+
+.divv
+{
+   margin-top: 900px;
+    /* text-align: center; */
+}
+.bodh2 
+{
+    text-align: left;
+    padding-top: 350px;
+    padding-left: 200px;
+  color: crimson;
+    font-size: 60px;
+    font-family: "Playwrite HU", cursive;
+}
+.pdaily1 
+{
+    font-size: 20px;
+    margin-left: 120px;
+}
+.dailybutt1 
+{
+    height: 50px;
+    width: 180px;
+    border-radius: 20px;
+    color:black;
+    background-color:whitesmoke;
+    margin-left: 360px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+.icon-collection 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.icon
+{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    /* border: solid; */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon:hover
+{
+    background-image: linear-gradient(to bottom right,red,blue);
+   
+}
+.icon:hover .brands{
+    color: white;
+    animation: rotate 3s;
+    /* rotate is the name i given */
+}
+@keyframes rotate
+{
+    0%{
+        transform:rotate(30deg);
+    }
+    20%
+    {
+        transform:rotate(-30deg);
+    }
+    40%
+    {
+        transform:rotate(30deg);
+    }
+    60%
+    {
+        transform:rotate(-30deg);
+    }
+    80%
+    {
+        transform:rotate(30deg);
+    }
+    100%
+    {
+        transform:rotate(-30deg);
+    }
+}
